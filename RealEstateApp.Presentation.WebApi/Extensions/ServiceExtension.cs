@@ -20,8 +20,8 @@ namespace RealEstateApp.Presentation.WebApi.Extensions
                     Description = "This Api will be responsible for overall data distribution",
                     Contact = new OpenApiContact
                     {
-                        Name = "Maxi Morrobel",
-                        Email = "202010067@itla.edu.do",
+                        Name = "Sebastian De Leon",
+                        Email = "sebastiandeleonrosario@gmail.com",
                         Url = new Uri("https://www.itla.edu.do")
                     }
                 });
